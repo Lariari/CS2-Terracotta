@@ -6,3 +6,5 @@ Setting up a 1.6.4 dev environment is not practical if even possible due to Grad
 This mod/config operates under the limitations of CS2 and therefore isn't super perfect.
 All colors of Glazed Terracotta are added.
 In order to change the orientation of the block you utilize a Stick and either left-click or right-click to turn it clockwise or counter-clockwise.
+
+To install just unzip the gterracotta folder into the /config/CustomStuff/mods directory.
